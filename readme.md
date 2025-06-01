@@ -1,0 +1,7 @@
+cd .\api_mc_livro-versao-final\  
+ npm i typescript express mongoose --save
+npm i @types/express @types/mongoose --save-dev
+npm audit fix --force
+npm install nodemon@latest --save-dev
+npm audit
+npm install mongoose@^6.0.0
