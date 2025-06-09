@@ -6,3 +6,4 @@ npm audit fix --force
 npm install nodemon@latest --save-dev
 npm audit
 docker-compose up --build
+npm start
